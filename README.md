@@ -29,10 +29,55 @@ and hit enter. You should see this text:
             [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
             <command> [<args>]
 
-This means you have Git installed. You can skip installing git and go straight to cloning the repo.
+This means you have Git installed. You can skip installing git and go straight to cloning the repo. Otherwise continue on to check for homebrew.
+
+### Checking for Homebrew
+In the terminal you already opened, type:
+
+    brew
+
+and hit enter. You should see this text:
+
+    @:~/$ brew
+    Example usage:
+        brew search [TEXT|/REGEX/]
+        brew info [FORMULA...]
+        brew install FORMULA...
+        brew update
+        brew upgrade [FORMULA...]
+        brew uninstall FORMULA...
+        brew list [FORMULA...]
+
+    Troubleshooting:
+        brew config
+        brew doctor
+        brew install --verbose --debug FORMULA
+
+    Contributing:
+        brew create [URL [--no-fetch]]
+        brew edit [FORMULA...]
+
+    Further help:
+        brew commands
+        brew help [COMMAND]
+        man brew
+        https://docs.brew.sh
+
+This means you have Homebrew installed. You can skip instaling homebrew and go straight to installing git. Otherwise continue to installing homebrew.
+
+### Installing Homebrew
+In the terminal type:
+
+    xcode-select --install
+
+and hit enter. This will install command line developer tools onto your computer. Next type:
+
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+and hit enter. This will install homebrew on your computer which is a Mac package manager.
 
 ### Installing Git
-In the terminal you already opened type:
+In the terminal type:
 
     brew install git
 
