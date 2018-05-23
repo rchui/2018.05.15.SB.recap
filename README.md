@@ -1,6 +1,7 @@
 # 2018.05.15.SB.recap
 
 ## Instructions
+
 ### Checking for Git
 Your computer should already have git installed. If you have a Mac press:
 
@@ -46,6 +47,7 @@ and hit enter. You can run the program by typing:
     python recap.py
 
 and hit enter.
+
 ### Delete the Repo
 In the terminal type:
 
@@ -56,3 +58,36 @@ and hit enter. Then type:
     rm -rf 2018.05.15.SB.recap/
 
 and hit enter. It's should be gone!
+
+### If Nothing Works
+It should have printed:
+
+      ******** *******  ** ********** ******       **     **       **       ******** *******    ********
+     **////// /**////**/**/////**/// /*////**     ****   /**      /**      /**///// /**////**  **////// 
+    /**       /**   /**/**    /**    /*   /**    **//**  /**      /**      /**      /**   /** /**       
+    /*********/******* /**    /**    /******    **  //** /**      /**      /******* /*******  /*********
+    ////////**/**////  /**    /**    /*//// ** **********/**      /**      /**////  /**///**  ////////**
+           /**/**      /**    /**    /*    /**/**//////**/**      /**      /**      /**  //**        /**
+     ******** /**      /**    /**    /******* /**     /**/********/********/********/**   //** ******** 
+    ////////  //       //     //     ///////  //      // //////// //////// //////// //     // ////////  
+
+
+           O
+       `--=2=--~      -=-
+        __/"\                                   ,
+        '   |_                                 (_O_
+                                                 3 )
+                                                /"\__
+                                              _|     '
+
+
+    May 15, 2018 - Game Recap:
+
+
+                        Arista    Spitballers
+
+          Score             11             10
+
+         Spirit         > 9000         > 9000
+
+I put way more effort into this then I'd like to admit.
