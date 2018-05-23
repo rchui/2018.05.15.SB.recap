@@ -105,11 +105,11 @@ In the terminal type:
 
     cd ../
 
-and hit enter. Then type:
+and hit enter to exit the current directory. Then type:
 
     rm -rf 2018.05.15.SB.recap/
 
-and hit enter. It's should be gone!
+and hit enter to remove the repo that you downloaded. It's should be gone!
 
 ### If Nothing Works
 It should have printed:
