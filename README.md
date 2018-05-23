@@ -7,6 +7,14 @@ If you know what you're doing. Clone the repo and run it using:
 
 If you don't know what you're doing, follow along with the instructions.
 
+If you dont' want to install anything and just want to see it run copy the text in recap.py into a file called recap.py on your Desktop. Open the terminal and navigate to the Desktop by typing:
+
+    cd ~/Desktop/
+
+and run by typing:
+
+    python recap.py
+
 If you just want to see where this all leads without installing anything skip to the bottom.
 
 ### Checking for Git
