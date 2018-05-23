@@ -20,7 +20,7 @@ and hit enter. When the terminal pops up type:
 
     git
 
-You should see this text:
+and hit enter. You should see this text:
 
     @:~$ git
     usage: git [--version] [--help] [-C <path>] [-c name=value]
@@ -29,7 +29,7 @@ You should see this text:
             [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
             <command> [<args>]
 
-This means you have Git installed. You can go straight to cloning the repo.
+This means you have Git installed. You can skip installing git and go straight to cloning the repo.
 
 ### Installing Git
 In the terminal you already opened type:
