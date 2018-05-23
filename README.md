@@ -7,6 +7,8 @@ If you know what you're doing. Clone the repo and run it using:
 
 If you don't know what you're doing, follow along with the instructions.
 
+If you just want to see where this all leads without installing anything skip to the bottom.
+
 ### Checking for Git
 Your computer should already have git installed. If you have a Mac press:
 
