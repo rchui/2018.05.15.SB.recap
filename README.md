@@ -1,6 +1,11 @@
 # 2018.05.15.SB.recap
 
 ## Instructions
+If you know what you're doing. Clone the repo and run it using:
+
+    python recap.py
+
+If you don't know what you're doing, follow along with the instructions.
 
 ### Checking for Git
 Your computer should already have git installed. If you have a Mac press:
