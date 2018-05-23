@@ -72,7 +72,7 @@ In the terminal type:
 
     xcode-select --install
 
-and hit enter. This will install command line developer tools onto your computer. Next type:
+and hit enter. This will install developer command line tools onto your computer. Next type:
 
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
@@ -83,7 +83,7 @@ In the terminal type:
 
     brew install git
 
-and hit enter. This should download git.
+and hit enter. This will install git on your computer which is version control system for tracking code changes.
 
 ### Cloning the Repo
 In the terminal type:
